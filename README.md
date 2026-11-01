@@ -2,7 +2,7 @@
 
 Basic program to display on the console "Hello C#", this to domestrate a basic C# console project setup
 
-[Software Demo Video](https://www.youtube.com/watch?v=skeVv56nRgc)
+[Software Demo Video](https://youtu.be/9rhBCpnXejA)
 
 # Development Environment
 
