@@ -1,5 +1,3 @@
-# HelloCSharp
-Hello C# basic program for week 1 - CSE 310
 # Overview
 
 Basic program to display on the console "Hello C#", this to domestrate a basic C# console project setup
